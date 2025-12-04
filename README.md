@@ -1,5 +1,3 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=anotherasiandev&label=Profile%20views&color=0e75b6&style=flat" alt="anotherasiandev" /> </p>
-
 <h1 align="center">Hi 👋, I'm Oscar</h1>
 <h3 align="center">A random person doing random stuff on the internet</h3>
 
