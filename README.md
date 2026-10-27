@@ -1,7 +1,7 @@
-# whoami
+# The best systems go unnoticed.
 
-**IT**
+Built quietly. Maintained constantly.
 
-`automation` `infrastructure` `security`
+---
 
-<sub>uptime: since forever, no reboot planned</sub>
+<sub>Details on request.</sub>
