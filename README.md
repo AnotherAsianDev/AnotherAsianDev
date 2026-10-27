@@ -1,10 +1,7 @@
-$ whoami
-it
+# whoami
 
-$ cat focus.txt
-automation
-infrastructure
-security
+**IT**
 
-$ uptime
-up since forever, no reboot planned
+`automation` `infrastructure` `security`
+
+<sub>uptime: since forever, no reboot planned</sub>
